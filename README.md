@@ -1,4 +1,4 @@
-## Hi there 👋
+Informatik-Student / Computer Science student | Cybersecurity & Python enthusiast
 
 <!--
 **MauriceZilian/MauriceZilian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
