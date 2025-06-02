@@ -1,16 +1,21 @@
-Informatik-Student / Computer Science student | Cybersecurity enthusiast
+# 👋 Hallo! Ich bin Maurice
 
-<!--
-**MauriceZilian/MauriceZilian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich interessiere mich für IT-Sicherheit, Softwareentwicklung und alles, was mit digitaler Zukunft zu tun hat.  
+Aktuell bereite ich mich auf ein duales Studium in Informatik vor – und dokumentiere meinen Lernweg mit kleinen Projekten auf GitHub.
 
-Here are some ideas to get you started:
+## 🔧 Aktuell arbeite ich an:
+- Python-Grundlagenkurs („Python for Everybody“)
+- Google Cybersecurity-Zertifikat
+- Eigene Projekte wie Zahlen- und Lohnberechnung in Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 Projekte auf GitHub
+- [Zahlenberechnung](https://github.com/mauricezilian/zahlenberechnung)
+- [Lohnberechnung](https://github.com/mauricezilian/lohnberechnung)
+
+## 🌱 Ich lerne gerade:
+- Cybersecurity Basics (Cybersecurity tools, Frameworks, NIST, CISSP, CIA, OWASP, SIEM tools, Networks, Network attacks & secure networks, Security Hardening, OS, SQL)
+- Versionsverwaltung mit Git & GitHub
+- Mathematische Grundlagen zur Vorbereitung auf das Studium
+
+## 📫 Kontakt
+- [LinkedIn](https://linkedin.com/in/mauricezilian)
