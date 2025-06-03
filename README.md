@@ -9,9 +9,9 @@ Aktuell bereite ich mich auf ein duales Studium in Informatik vor – und dokume
 - Eigene Projekte wie Zahlen- und Lohnberechnung in Python
 
 ## 📁 Projekte auf GitHub
-- [Zahlenberechnung](https://github.com/mauricezilian/zahlenberechnung)
-- [Lohnberechnung](https://github.com/mauricezilian/lohnberechnung)
-- [Arbeitsprobe Cybersecurity NIST](https://github.com/mauricezilian/Arbeitsprobe_Cybersecurity_NIST)
+- [PYTHON : Zahlenberechnung](https://github.com/mauricezilian/zahlenberechnung)
+- [PYTHON : Lohnberechnung](https://github.com/mauricezilian/lohnberechnung)
+- [Cybersecurity : NIST](https://github.com/mauricezilian/Arbeitsprobe_Cybersecurity_NIST)
 
 ## 🌱 Ich lerne gerade:
 - Cybersecurity Basics (Cybersecurity tools, Frameworks, NIST, CISSP, CIA, OWASP, SIEM tools, Networks, Network attacks & secure networks, Security Hardening, OS, SQL)
