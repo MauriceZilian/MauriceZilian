@@ -1,11 +1,11 @@
 # 👋 Willkommen / Welcome
 
 ## 🌐 Sprache / Language
-[🇩🇪 Deutsch](#-über-mich) | [🇬🇧 English](#-about-me)
+[Deutsch](#-über-mich) | [English](#-about-me)
 
 ---
 
-## 🇩🇪 Über mich
+## Über mich
 
 Ich interessiere mich für IT-Sicherheit, Softwareentwicklung und alles, was mit digitaler Zukunft zu tun hat.  
 Aktuell bereite ich mich auf ein duales Studium in Informatik vor – und dokumentiere meinen Lernweg durch kleine Projekte und Arbeitsproben auf GitHub.
@@ -23,8 +23,8 @@ Aktuell bereite ich mich auf ein duales Studium in Informatik vor – und dokume
 
 ### 📁 Projekte auf GitHub
 
-- [📊 Zahlenberechnung (Python)](https://github.com/mauricezilian/zahlenberechnung)
-- [💼 Lohnberechnung (Python)](https://github.com/mauricezilian/lohnberechnung)
+- [📊 PYTHON : Zahlenberechnung](https://github.com/mauricezilian/zahlenberechnung)
+- [💼 PYTHON : Lohnberechnung](https://github.com/mauricezilian/lohnberechnung)
 - [🔒 Cybersecurity: NIST-Arbeitsprobe](https://github.com/mauricezilian/Arbeitsprobe_Cybersecurity_NIST)
 
 ---
@@ -43,7 +43,7 @@ Aktuell bereite ich mich auf ein duales Studium in Informatik vor – und dokume
 
 ---
 
-## 🇬🇧 About Me
+## About Me
 
 I’m passionate about IT security, software development, and everything that drives the digital future.  
 Currently, I’m preparing for a dual study program in Computer Science – and documenting my journey through small projects and working samples on GitHub.
@@ -61,8 +61,8 @@ Currently, I’m preparing for a dual study program in Computer Science – and 
 
 ### 📁 Selected GitHub Repositories
 
-- [📊 Number Calculation (Python)](https://github.com/mauricezilian/zahlenberechnung)
-- [💼 Salary Calculation (Python)](https://github.com/mauricezilian/lohnberechnung)
+- [📊 PYTHON : Number Calculation](https://github.com/mauricezilian/zahlenberechnung)
+- [💼 PYTHON : Salary Calculation](https://github.com/mauricezilian/lohnberechnung)
 - [🔒 Cybersecurity: NIST-Based Working Sample](https://github.com/mauricezilian/Arbeitsprobe_Cybersecurity_NIST)
 
 ---
