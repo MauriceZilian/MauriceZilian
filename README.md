@@ -1,6 +1,6 @@
 # 👋 Willkommen / Welcome
 
-## 🌐 Sprache / Language
+## 🌐 Sprache / Language  
 [Deutsch](#-über-mich) | [English](#-about-me)
 
 ---
@@ -8,32 +8,32 @@
 ## Über mich
 
 Ich interessiere mich für IT-Sicherheit, Softwareentwicklung und alles, was mit digitaler Zukunft zu tun hat.  
-Aktuell bereite ich mich auf ein duales Studium in Informatik vor – und dokumentiere meinen Lernweg durch kleine Projekte und Arbeitsproben auf GitHub.
+Aktuell bereite ich mich auf ein duales Studium in Informatik vor – und dokumentiere meinen Lernweg mit abgeschlossenen Projekten und Arbeitsproben.
 
 ---
 
-### 🔧 Aktuell arbeite ich an
+### ✅ Kürzlich abgeschlossen
 
-- 🎓 Python-Grundlagenkurs („Python for Everybody“ – Coursera)
-- 🔐 Google Cybersecurity-Zertifikat
-- 🧮 Eigene Python-Projekte (z. B. Lohn- und Zahlenberechnung)
-- 📊 Arbeitsprobe: Cybersecurity-Analyse nach dem NIST-Framework
+- 🧮 Python-Projekte: Zahlen- und Lohnberechnung
+- 🔒 Arbeitsprobe: Cybersecurity-Analyse nach dem NIST-Framework
+- 🎓 Grundlagenkurse in Python und Cybersecurity (Coursera, Google)
+
+---
+
+### 🌱 Aktuell im Fokus
+
+- Tieferes Verständnis in IT-Sicherheit (NIST, OWASP, Netzwerke, Hardening)
+- Weiterführende Python-Kenntnisse (z. B. OOP, Fehlerbehandlung, CLI-Tools)
+- Mathematische Grundlagen (für das Studium)
+- Erste Einblicke in Linux, Datenbanken und Web-Sicherheit
 
 ---
 
 ### 📁 Projekte auf GitHub
 
-- [📊 PYTHON : Zahlenberechnung](https://github.com/mauricezilian/zahlenberechnung)
-- [💼 PYTHON : Lohnberechnung](https://github.com/mauricezilian/lohnberechnung)
+- [📊 Zahlenberechnung (Python)](https://github.com/mauricezilian/zahlenberechnung)
+- [💼 Lohnberechnung (Python)](https://github.com/mauricezilian/lohnberechnung)
 - [🔒 Cybersecurity: NIST-Arbeitsprobe](https://github.com/mauricezilian/Arbeitsprobe_Cybersecurity_NIST)
-
----
-
-### 🌱 Ich lerne aktuell
-
-- ⚙️ Cybersecurity-Grundlagen (NIST, CIA, OWASP, SIEM, Netzwerke)
-- 📚 Versionsverwaltung mit Git & GitHub
-- 📐 Mathematische Grundlagen zur Vorbereitung auf das Studium
 
 ---
 
@@ -43,39 +43,38 @@ Aktuell bereite ich mich auf ein duales Studium in Informatik vor – und dokume
 
 ---
 
-## About Me
+## 🇬🇧 About Me
 
 I’m passionate about IT security, software development, and everything that drives the digital future.  
-Currently, I’m preparing for a dual study program in Computer Science – and documenting my journey through small projects and working samples on GitHub.
+Currently, I’m preparing for a dual study program in Computer Science – and sharing completed projects and learning samples on GitHub.
 
 ---
 
-### 🔧 Currently Working On
+### ✅ Recently Completed
 
-- 🎓 Python basics course (“Python for Everybody” – Coursera)
-- 🔐 Google Cybersecurity Certificate
-- 🧮 Personal Python projects (e.g., salary and number calculators)
-- 📊 Working sample: Cybersecurity analysis using the NIST Framework
+- 🧮 Python mini projects: number and salary calculators
+- 🔒 Cybersecurity report based on the NIST framework
+- 🎓 Introductory courses in Python and cybersecurity (Coursera, Google)
+
+---
+
+### 🌱 Currently Exploring
+
+- Deeper cybersecurity topics (NIST, OWASP, networks, hardening)
+- Advanced Python concepts (e.g., OOP, CLI tools, exception handling)
+- Math preparation for university
+- First steps into Linux, databases, and web security
 
 ---
 
 ### 📁 Selected GitHub Repositories
 
-- [📊 PYTHON : Number Calculation](https://github.com/mauricezilian/zahlenberechnung)
-- [💼 PYTHON : Salary Calculation](https://github.com/mauricezilian/lohnberechnung)
-- [🔒 Cybersecurity: NIST-Based Working Sample](https://github.com/mauricezilian/Arbeitsprobe_Cybersecurity_NIST)
-
----
-
-### 🌱 Currently Learning
-
-- ⚙️ Cybersecurity fundamentals (NIST, CIA, OWASP, SIEM, networking)
-- 📚 Git & GitHub version control
-- 📐 Math foundations for university preparation
+- [📊 Number Calculation (Python)](https://github.com/mauricezilian/zahlenberechnung)
+- [💼 Salary Calculation (Python)](https://github.com/mauricezilian/lohnberechnung)
+- [🔒 Cybersecurity: NIST Working Sample](https://github.com/mauricezilian/Arbeitsprobe_Cybersecurity_NIST)
 
 ---
 
 ### 📫 Contact
 
 - [LinkedIn Profile](https://linkedin.com/in/mauricezilian)
-
