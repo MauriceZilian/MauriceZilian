@@ -11,7 +11,7 @@ Aktuell bereite ich mich auf ein duales Studium in Informatik vor – und dokume
 ## 📁 Projekte auf GitHub
 - [Zahlenberechnung](https://github.com/mauricezilian/zahlenberechnung)
 - [Lohnberechnung](https://github.com/mauricezilian/lohnberechnung)
-- [Arbeitsprobe_Cybersecurity_NIST](https://github.com/mauricezilian/Arbeitsprobe_Cybersecurity_NIST
+- [Arbeitsprobe Cybersecurity NIST](https://github.com/mauricezilian/Arbeitsprobe_Cybersecurity_NIST)
 
 ## 🌱 Ich lerne gerade:
 - Cybersecurity Basics (Cybersecurity tools, Frameworks, NIST, CISSP, CIA, OWASP, SIEM tools, Networks, Network attacks & secure networks, Security Hardening, OS, SQL)
