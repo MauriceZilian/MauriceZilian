@@ -43,7 +43,7 @@ Aktuell bereite ich mich auf ein duales Studium in Informatik vor – und dokume
 
 ---
 
-## 🇬🇧 About Me
+## About Me
 
 I’m passionate about IT security, software development, and everything that drives the digital future.  
 Currently, I’m preparing for a dual study program in Computer Science – and sharing completed projects and learning samples on GitHub.
