@@ -31,8 +31,8 @@ Aktuell bereite ich mich auf ein duales Studium in Informatik vor – und dokume
 
 ### 📁 Projekte auf GitHub
 
-- [📊 Zahlenberechnung (Python)](https://github.com/mauricezilian/zahlenberechnung)
-- [💼 Lohnberechnung (Python)](https://github.com/mauricezilian/lohnberechnung)
+- [📊 PYTHON : Zahlenberechnung](https://github.com/mauricezilian/zahlenberechnung)
+- [💼 PYTHON : Lohnberechnung](https://github.com/mauricezilian/lohnberechnung)
 - [🔒 Cybersecurity: NIST-Arbeitsprobe](https://github.com/mauricezilian/Arbeitsprobe_Cybersecurity_NIST)
 
 ---
@@ -69,8 +69,8 @@ Currently, I’m preparing for a dual study program in Computer Science – and 
 
 ### 📁 Selected GitHub Repositories
 
-- [📊 Number Calculation (Python)](https://github.com/mauricezilian/zahlenberechnung)
-- [💼 Salary Calculation (Python)](https://github.com/mauricezilian/lohnberechnung)
+- [📊 PYTHON : Number Calculation](https://github.com/mauricezilian/zahlenberechnung)
+- [💼 PYTHON : Salary Calculation](https://github.com/mauricezilian/lohnberechnung)
 - [🔒 Cybersecurity: NIST Working Sample](https://github.com/mauricezilian/Arbeitsprobe_Cybersecurity_NIST)
 
 ---
