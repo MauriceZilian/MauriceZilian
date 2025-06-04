@@ -16,6 +16,7 @@ Aktuell bereite ich mich auf ein duales Studium in Informatik vor – und dokume
 
 - 🧮 Python-Projekte: Zahlen- und Lohnberechnung
 - 🔒 Arbeitsprobe: Cybersecurity-Analyse nach dem NIST-Framework
+- 🔒 Cybersecurity: SYN Flood Angriff & Log Analyse
 - 🎓 Grundlagenkurse in Python und Cybersecurity (Coursera, Google)
 
 ---
@@ -34,7 +35,7 @@ Aktuell bereite ich mich auf ein duales Studium in Informatik vor – und dokume
 - [📊 PYTHON : Zahlenberechnung](https://github.com/mauricezilian/zahlenberechnung)
 - [💼 PYTHON : Lohnberechnung](https://github.com/mauricezilian/lohnberechnung)
 - [🔒 Cybersecurity: NIST-Arbeitsprobe](https://github.com/mauricezilian/Arbeitsprobe_Cybersecurity_NIST)
-- [🔒 Cybersecurity: SYN Flood Angriff & Log Analyse](https://github.com/mauricezilian/Syn-Flood-Attack-Log-Analysis)
+- [🔒 Cybersecurity: SYN Flood Angriff & Log Analyse](https://github.com/mauricezilian/Cybersecurity__Syn-Flood-Attack-Log-Analysis)
 ---
 
 ### 📫 Kontakt
