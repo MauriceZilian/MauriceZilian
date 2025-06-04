@@ -55,6 +55,7 @@ Currently, I’m preparing for a dual study program in Computer Science – and 
 
 - 🧮 Python mini projects: number and salary calculators
 - 🔒 Cybersecurity report based on the NIST framework
+- 🔒 Cybersecurity: SYN Flood Attack & Log Analysis
 - 🎓 Introductory courses in Python and cybersecurity (Coursera, Google)
 
 ---
@@ -73,6 +74,7 @@ Currently, I’m preparing for a dual study program in Computer Science – and 
 - [📊 PYTHON : Number Calculation](https://github.com/mauricezilian/zahlenberechnung)
 - [💼 PYTHON : Salary Calculation](https://github.com/mauricezilian/lohnberechnung)
 - [🔒 Cybersecurity: NIST Working Sample](https://github.com/mauricezilian/Arbeitsprobe_Cybersecurity_NIST)
+- [🔒 Cybersecurity: SYN Flood Attack & Log Analysis](https://github.com/mauricezilian/Cybersecurity__Syn-Flood-Attack-Log-Analysis)
 
 ---
 
