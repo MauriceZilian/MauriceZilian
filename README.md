@@ -23,8 +23,8 @@ Aktuell bereite ich mich auf ein duales Studium in Informatik vor – und dokume
 
 ### 🌱 Aktuell im Fokus
 
-- Tieferes Verständnis in IT-Sicherheit (NIST, OWASP, Netzwerke, Hardening)
-- Weiterführende Python-Kenntnisse (z. B. OOP, Fehlerbehandlung, CLI-Tools)
+- Tieferes Verständnis in IT-Sicherheit (CISSP, Frameworks (NIST) & controls, CIA triad, risks & attacks, cybersecurity tools (SIEM, log analyzer), OWASP, Networks   (protocols, attacks, defense), security hardening)
+- Weiterführende Python-Kenntnisse (z. B. Datenstrukturen, Fehlerbehandlung, CLI-Tools)
 - Mathematische Grundlagen (für das Studium)
 - Erste Einblicke in Linux, Datenbanken und Web-Sicherheit
 
@@ -62,8 +62,8 @@ Currently, I’m preparing for a dual study program in Computer Science – and 
 
 ### 🌱 Currently Exploring
 
-- Deeper cybersecurity topics (NIST, OWASP, networks, hardening)
-- Advanced Python concepts (e.g., OOP, CLI tools, exception handling)
+- Deeper cybersecurity topics (CISSP, Frameworks (NIST) & controls, CIA triad, risks & attacks, cybersecurity tools (SIEM, log analyzer), OWASP, Networks (protocols, attacks, defense), security hardening)
+- Advanced Python concepts (e.g., Data structures, CLI tools, exception handling)
 - Math preparation for university
 - First steps into Linux, databases, and web security
 
